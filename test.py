@@ -1,0 +1,5 @@
+print("never")
+print("gonna")
+print("give")
+print("you")
+print("up")
